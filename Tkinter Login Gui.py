@@ -16,8 +16,8 @@ class Login_Sys:
         self.root.geometry("1120x620") # Window Geometry
         self.root.configure(bg= b_color) # Window Background
     
-        self.user_icon = PhotoImage(file="C:/Users/tahak/Desktop/Test/Pictures/User.png") 
-        self.password_icon = PhotoImage(file="C:/Users/tahak/Desktop/Test/Pictures/Password.png")
+        self.user_icon = PhotoImage(file="C:/Users/..../..../..../..../xxxx.png") 
+        self.password_icon = PhotoImage(file="C:/Users/..../..../..../..../xxxx.png") #or .jpg or.jpeg or .png
 
 
 
@@ -72,6 +72,6 @@ color2 = "#cecece" #Prefered
 
 root = Tk() # Reqruied
 obj = Login_Sys(root) # Reqruied 
-root.iconbitmap("C:/Users/tahak/Desktop/Test/Pictures/Vs-Code.ico") # For All Window Icon 
+root.iconbitmap("C:/Users/..../..../..../..../xxxx.ico") # For All Window Icon -- .ico
 root.mainloop() # You Need For Script Keep Open
 
