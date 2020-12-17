@@ -3,9 +3,9 @@
 #           18/12/2020
 
 
-from tkinter import *
+from tkinter import *          #pip install tkinter
 from tkinter import messagebox # Must be for messagebox 
-from PIL import *
+from PIL import *              #pip install pillow
 
 
 
